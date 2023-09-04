@@ -1,4 +1,5 @@
 # Hi there 👋. 
+[image_here]
 
 ## ℹ️ Information
 ```py
@@ -34,4 +35,4 @@ const iamhenryy = () => {
 }
 console.log(iamhenryy())
 ```
-## Github's Stats
+## 📊 Github's Stats
