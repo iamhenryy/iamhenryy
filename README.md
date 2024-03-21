@@ -11,7 +11,7 @@ def iamhenryy():
         'inRelationship': False,
         'spokenLanguages': [{'language': 'Vietnamese', 'level': 'native'}, {'language': 'English', 'level': 'intermediate'}],
         'currentLiving': 'Ho Chi Minh City, Vietnam',
-        'programmingLanguages': ['python', 'javascript', 'golang', 'bash', 'html/css'],
+        'programmingLanguages': ['python', 'javascript', 'cpp', 'bash', 'html/css'],
         'mySkills': ['sysadmin', 'cybersecurity', 'developer'],
         'whatIuse': ['linux', 'windows', 'macos', 'android', 'docker', 'git', 'github'],
         'myHobbies': ['coding', 'listening to music', 'watching movies', 'reading books', 'learning new things'],
