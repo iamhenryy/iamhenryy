@@ -5,20 +5,17 @@
 ```py
 def iamhenryy():    
     iamhenryy = {
-        'fullname': 'Kiet Tuan Trinh',
-        'nickname': 'Henry', # btw, you can call me 'Henry Trinh'
+        'fullname': '',
+        'nickname': 'Henry',
         'year': 2007,
         'inRelationship': False,
         'spokenLanguages': [{'language': 'Vietnamese', 'level': 'native'}, {'language': 'English', 'level': 'intermediate'}],
         'currentLiving': 'Ho Chi Minh City, Vietnam',
-        'programmingLanguages': ['python', 'javascript', 'cpp', 'bash', 'html/css'],
-        'mySkills': ['sysadmin', 'cybersecurity', 'developer'],
+        'programmingLanguages': ['python', 'cpp', 'bash'],
+        'mySkills': [],
         'whatIuse': ['linux', 'windows', 'macos', 'android', 'docker', 'git', 'github'],
         'myHobbies': ['coding', 'listening to music', 'watching movies', 'reading books', 'learning new things'],
     }
-    print(iamhenryy)
-    print(iamhenryy['myHobbies'])
-iamhenryy()
 ```
 
 ## 📮 Contact Information
@@ -33,6 +30,5 @@ const iamhenryy = () => {
         Facebook: "tuankiet.trinh210", // not a good choice to contact me
     })
 }
-console.log(iamhenryy())
 ```
 ## 📊 Github's Stats
